@@ -7,3 +7,5 @@ This project helped me learn some basic core fundamentals of JavaScript includin
 - HTML
 - CSS
 - JavaScript
+
+<img src="calculator.PNG">
